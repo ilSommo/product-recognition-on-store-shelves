@@ -5,6 +5,7 @@ Clear all output from notebooks before committing changes
 `python version 3.5.10`
 
 `jupyter version 1.0.0`  
+`matplotlib version 3.0.3`  
 `numpy version 1.18.5`  
 `opencv-contrib-python version 3.4.2.16`  
 `opencv-python version 3.4.2.16`
