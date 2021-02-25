@@ -9,3 +9,4 @@ Clear all output from notebooks before committing changes
 `numpy version 1.18.5`  
 `opencv-contrib-python version 3.4.2.16`  
 `opencv-python version 3.4.2.16`
+`scikit-image version 0.15.0`
