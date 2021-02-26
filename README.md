@@ -1,6 +1,8 @@
 # product-recognition-on-store-shelves
 
-Clear all output from notebooks before committing changes
+The aim of this project is to develop a computer vision system that, given a reference image for each product, is able to identify boxes of cereals of different brands from one picture of a store shelf.
+
+![image](output/step_C/m5.png)
 
 `python version 3.5.10`
 
