@@ -2,7 +2,7 @@
 
 The aim of this project is to develop a computer vision system that, given a reference image for each product, is able to identify boxes of cereals of different brands from one picture of a store shelf.
 
-![image](output/step_C/m5.png){:height="36px" width="36px"}
+![image](output/step_C/m5.png =400x400)
 
 `python version 3.5.10`
 
