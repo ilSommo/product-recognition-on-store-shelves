@@ -11,6 +11,6 @@ The aim of this project is to develop a computer vision system that, given a ref
 `jupyter version 1.0.0`  
 `matplotlib version 3.0.3`  
 `numpy version 1.18.5`  
-`opencv-contrib-python version 3.4.2.16`  
 `opencv-python version 3.4.2.16`  
+`opencv-contrib-python version 3.4.2.16`  
 `scikit-image version 0.15.0`
