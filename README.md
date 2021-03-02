@@ -1,4 +1,4 @@
-# product-recognition-on-store-shelves
+# Product recognition on store shelves
 
 The aim of this project is to develop a computer vision system that, given a reference image for each product, is able to identify boxes of cereals of different brands from one picture of a store shelf.
 
